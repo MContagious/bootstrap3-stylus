@@ -1,13 +1,13 @@
 {
-  "name": "bootstrap-stylus",
-  "description": "Twitter Bootstrap CSS framework ported to stylus",
-  "homepage": "https://github.com/shomeya/bootstrap-stylus",
-  "keywords": ["server", "stylus"],
+  "name": "bootstrap3-stylus",
+  "description": "Twitter Bootstrap 3 CSS framework ported to stylus",
+  "homepage": "https://github.com/MContagious/bootstrap3-stylus",
+  "keywords": ["server", "stylus", "bootstrap 3"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/shomeya/bootstrap-stylus.git"
+    "url": "git://github.com/MContagious/bootstrap3-stylus.git"
   },
-  "author": "Michael Prasuhn <mike@mikeyp.net>",
+  "author": "Kishore Relangi <kisree@gmail.com>",
   "main" : "./lib",
   "scripts" : { 
     "test" : "node test/test.js" 
@@ -15,5 +15,5 @@
   "directories": {
     "lib": "."
   },
-  "version": "0.2.1"
+  "version": "3.0"
 }
